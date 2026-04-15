@@ -1,0 +1,1503 @@
+{
+  "metadata": {
+    "exportedAt": "2026-01-11T08:55:29.141Z",
+    "sourceFile": "index.html",
+    "totalElements": 249
+  },
+  "elements": [
+    {
+      "id": "a_skip_to_navigat_81377",
+      "type": "a",
+      "selector": "a_skip_to_navigat_81377",
+      "content": "#menu-main-navigation"
+    },
+    {
+      "id": "a_skip_to_main_co_51306",
+      "type": "a",
+      "selector": "a_skip_to_main_co_51306",
+      "content": "#main-content"
+    },
+    {
+      "id": "a_facebook_80604",
+      "type": "a",
+      "selector": "a_facebook_80604",
+      "content": "facebook"
+    },
+    {
+      "id": "img_72992",
+      "type": "img",
+      "selector": "img_72992",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/uploads/w-investment-facebook.svg"
+    },
+    {
+      "id": "span_facebook_24886",
+      "type": "span",
+      "selector": "span_facebook_24886",
+      "content": "Facebook"
+    },
+    {
+      "id": "a_instagram_58467",
+      "type": "a",
+      "selector": "a_instagram_58467",
+      "content": "instagram"
+    },
+    {
+      "id": "img_46627",
+      "type": "img",
+      "selector": "img_46627",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/uploads/w-investment-twitter.svg"
+    },
+    {
+      "id": "span_instagram_82161",
+      "type": "span",
+      "selector": "span_instagram_82161",
+      "content": "Instagram"
+    },
+    {
+      "id": "a_6391_elgin_st___50076",
+      "type": "a",
+      "selector": "a_6391_elgin_st___50076",
+      "content": "My"
+    },
+    {
+      "id": "img_55147",
+      "type": "img",
+      "selector": "img_55147",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/uploads/w-investment-location.svg"
+    },
+    {
+      "id": "span_6391_elgin_st___18261",
+      "type": "span",
+      "selector": "span_6391_elgin_st___18261",
+      "content": "6391 Elgin St. Celina, Delaware"
+    },
+    {
+      "id": "a__480__555_0103_58722",
+      "type": "a",
+      "selector": "a__480__555_0103_58722",
+      "content": "tel:+43 20555-0103"
+    },
+    {
+      "id": "img_87457",
+      "type": "img",
+      "selector": "img_87457",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/uploads/w-investment-phone.svg"
+    },
+    {
+      "id": "span__480__555_0103_31328",
+      "type": "span",
+      "selector": "span__480__555_0103_31328",
+      "content": "(480) 555-0103"
+    },
+    {
+      "id": "a_19342",
+      "type": "a",
+      "selector": "a_19342",
+      "content": "NEXT SaaS by WROMO "
+    },
+    {
+      "id": "img_74129",
+      "type": "img",
+      "selector": "img_74129",
+      "content": "https://raw.githubusercontent.com/Ghepes/Ghepes/main/hello.gif"
+    },
+    {
+      "id": "a_home_5437",
+      "type": "a",
+      "selector": "a_home_5437",
+      "content": "Home"
+    },
+    {
+      "id": "span_home_7566",
+      "type": "span",
+      "selector": "span_home_7566",
+      "content": "Home"
+    },
+    {
+      "id": "a_apartments_30873",
+      "type": "a",
+      "selector": "a_apartments_30873",
+      "content": "Apartments"
+    },
+    {
+      "id": "span_apartments_37903",
+      "type": "span",
+      "selector": "span_apartments_37903",
+      "content": "Apartments"
+    },
+    {
+      "id": "a_services_76292",
+      "type": "a",
+      "selector": "a_services_76292",
+      "content": "Services"
+    },
+    {
+      "id": "span_services_83468",
+      "type": "span",
+      "selector": "span_services_83468",
+      "content": "Services"
+    },
+    {
+      "id": "a_prices_42618",
+      "type": "a",
+      "selector": "a_prices_42618",
+      "content": "Prices"
+    },
+    {
+      "id": "span_prices_89554",
+      "type": "span",
+      "selector": "span_prices_89554",
+      "content": "Prices"
+    },
+    {
+      "id": "a_about_us_33316",
+      "type": "a",
+      "selector": "a_about_us_33316",
+      "content": "About Us"
+    },
+    {
+      "id": "span_about_us_36237",
+      "type": "span",
+      "selector": "span_about_us_36237",
+      "content": "About Us"
+    },
+    {
+      "id": "a_call_me_back_29313",
+      "type": "a",
+      "selector": "a_call_me_back_29313",
+      "content": "Call me back"
+    },
+    {
+      "id": "h4_if_you_have_que_89854",
+      "type": "h4",
+      "selector": "h4_if_you_have_que_89854",
+      "content": "If You Have Questions Please, Contact Us"
+    },
+    {
+      "id": "input_27994",
+      "type": "input",
+      "selector": "input_27994",
+      "content": ""
+    },
+    {
+      "id": "input_98741",
+      "type": "input",
+      "selector": "input_98741",
+      "content": ""
+    },
+    {
+      "id": "input_4755",
+      "type": "input",
+      "selector": "input_4755",
+      "content": ""
+    },
+    {
+      "id": "input_15696",
+      "type": "input",
+      "selector": "input_15696",
+      "content": ""
+    },
+    {
+      "id": "input_92561",
+      "type": "input",
+      "selector": "input_92561",
+      "content": ""
+    },
+    {
+      "id": "input_51954",
+      "type": "input",
+      "selector": "input_51954",
+      "content": ""
+    },
+    {
+      "id": "input_47305",
+      "type": "input",
+      "selector": "input_47305",
+      "content": ""
+    },
+    {
+      "id": "input_85889",
+      "type": "input",
+      "selector": "input_85889",
+      "content": ""
+    },
+    {
+      "id": "input_51816",
+      "type": "input",
+      "selector": "input_51816",
+      "content": ""
+    },
+    {
+      "id": "input_20070",
+      "type": "input",
+      "selector": "input_20070",
+      "content": ""
+    },
+    {
+      "id": "img_89497",
+      "type": "img",
+      "selector": "img_89497",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/uploads/autor-real-estate.png"
+    },
+    {
+      "id": "h4_choose_your_apa_6649",
+      "type": "h4",
+      "selector": "h4_choose_your_apa_6649",
+      "content": "Choose Your Apartment"
+    },
+    {
+      "id": "div_using_dummy_con_50971",
+      "type": "div",
+      "selector": "div_using_dummy_con_50971",
+      "content": "Using dummy content or fake information in the Web design process can result in products with unreal"
+    },
+    {
+      "id": "a_11714",
+      "type": "a",
+      "selector": "a_11714",
+      "content": "https://www.facebook.com/sharer/sharer.php?u=https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/demo-real-estate/demo/real-estate/"
+    },
+    {
+      "id": "a_29501",
+      "type": "a",
+      "selector": "a_29501",
+      "content": "https://x.com/share?url=https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/demo-real-estate/demo/real-estate/"
+    },
+    {
+      "id": "a_54433",
+      "type": "a",
+      "selector": "a_54433",
+      "content": "https://pinterest.com/pin/create/button/?url=https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/demo-real-estate/demo/real-estate/&media=https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/includes/images/media/default.svg&description=Demo+Real+Estate"
+    },
+    {
+      "id": "a_58707",
+      "type": "a",
+      "selector": "a_58707",
+      "content": "https://www.linkedin.com/shareArticle?mini=true&url=https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/demo-real-estate/demo/real-estate/"
+    },
+    {
+      "id": "a_58254",
+      "type": "a",
+      "selector": "a_58254",
+      "content": "https://telegram.me/share/url?url=https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/demo-real-estate/demo/real-estate/"
+    },
+    {
+      "id": "a_61175",
+      "type": "a",
+      "selector": "a_61175",
+      "content": "STUDIO WROMO"
+    },
+    {
+      "id": "img_96555",
+      "type": "img",
+      "selector": "img_96555",
+      "content": "https://raw.githubusercontent.com/Ghepes/Ghepes/main/hello.gif"
+    },
+    {
+      "id": "a_menu_73153",
+      "type": "a",
+      "selector": "a_menu_73153",
+      "content": ""
+    },
+    {
+      "id": "span_menu_35691",
+      "type": "span",
+      "selector": "span_menu_35691",
+      "content": "Menu"
+    },
+    {
+      "id": "h4_real_estate_inv_68194",
+      "type": "h4",
+      "selector": "h4_real_estate_inv_68194",
+      "content": "Real <u>Speed</u> Investments <u>Next GEN Website Saas!</u> "
+    },
+    {
+      "id": "div_we_offer_a_rang_63412",
+      "type": "div",
+      "selector": "div_we_offer_a_rang_63412",
+      "content": "New 2026 - \nClick changed and saved = instant global web delivery"
+    },
+    {
+      "id": "input_37427",
+      "type": "input",
+      "selector": "input_37427",
+      "content": ""
+    },
+    {
+      "id": "input_49998",
+      "type": "input",
+      "selector": "input_49998",
+      "content": ""
+    },
+    {
+      "id": "input_32552",
+      "type": "input",
+      "selector": "input_32552",
+      "content": ""
+    },
+    {
+      "id": "input_30270",
+      "type": "input",
+      "selector": "input_30270",
+      "content": ""
+    },
+    {
+      "id": "input_19623",
+      "type": "input",
+      "selector": "input_19623",
+      "content": ""
+    },
+    {
+      "id": "input_34110",
+      "type": "input",
+      "selector": "input_34110",
+      "content": ""
+    },
+    {
+      "id": "input_80204",
+      "type": "input",
+      "selector": "input_80204",
+      "content": ""
+    },
+    {
+      "id": "input_64912",
+      "type": "input",
+      "selector": "input_64912",
+      "content": ""
+    },
+    {
+      "id": "img_61660",
+      "type": "img",
+      "selector": "img_61660",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/uploads/w-investment-managment.svg"
+    },
+    {
+      "id": "h4_ease_of_managem_65729",
+      "type": "h4",
+      "selector": "h4_ease_of_managem_65729",
+      "content": "Ease of Management"
+    },
+    {
+      "id": "p_you_just_buy_an_69876",
+      "type": "p",
+      "selector": "p_you_just_buy_an_69876",
+      "content": "You just buy an apartment, and a professional lol hotel operator will do the rest for you! With Website SaaS by Wromo"
+    },
+    {
+      "id": "img_50973",
+      "type": "img",
+      "selector": "img_50973",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/uploads/w-investment-income.svg"
+    },
+    {
+      "id": "h4_guaranteed_inco_79505",
+      "type": "h4",
+      "selector": "h4_guaranteed_inco_79505",
+      "content": "Guaranteed Income"
+    },
+    {
+      "id": "p_guaranteed_mont_46823",
+      "type": "p",
+      "selector": "p_guaranteed_mont_46823",
+      "content": "Guaranteed monthly incom is prescribed in advance in the contract selection"
+    },
+    {
+      "id": "img_5470",
+      "type": "img",
+      "selector": "img_5470",
+      "content": "https://t4.ftcdn.net/jpg/04/73/72/11/360_F_473721132_I9LNMCvx7Du6EdJNH91EywcNHzgtEclz.jpg"
+    },
+    {
+      "id": "img_77527",
+      "type": "img",
+      "selector": "img_77527",
+      "content": "https://t4.ftcdn.net/jpg/04/73/72/11/360_F_473721132_I9LNMCvx7Du6EdJNH91EywcNHzgtEclz.jpg"
+    },
+    {
+      "id": "div_our_advantages_12115",
+      "type": "div",
+      "selector": "div_our_advantages_12115",
+      "content": "OUR ADVANTAGES"
+    },
+    {
+      "id": "h4_about_apartment_11361",
+      "type": "h4",
+      "selector": "h4_about_apartment_11361",
+      "content": "About Website"
+    },
+    {
+      "id": "div_we_took_care_of_79941",
+      "type": "div",
+      "selector": "div_we_took_care_of_79941",
+      "content": "We took care of the space around. So that nothing prevents you from enjoying nature and freedom, the"
+    },
+    {
+      "id": "div_our_complex_has_83934",
+      "type": "div",
+      "selector": "div_our_complex_has_83934",
+      "content": "Our complex has:"
+    },
+    {
+      "id": "img_89601",
+      "type": "img",
+      "selector": "img_89601",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/uploads/w-real-estate-checked.svg"
+    },
+    {
+      "id": "span_underground_par_35770",
+      "type": "span",
+      "selector": "span_underground_par_35770",
+      "content": "Underground parking"
+    },
+    {
+      "id": "img_30659",
+      "type": "img",
+      "selector": "img_30659",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/uploads/w-real-estate-checked.svg"
+    },
+    {
+      "id": "span_the_shops_32215",
+      "type": "span",
+      "selector": "span_the_shops_32215",
+      "content": "The shops"
+    },
+    {
+      "id": "img_59868",
+      "type": "img",
+      "selector": "img_59868",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/uploads/w-real-estate-checked.svg"
+    },
+    {
+      "id": "span_sports_court_8596",
+      "type": "span",
+      "selector": "span_sports_court_8596",
+      "content": "Sports court"
+    },
+    {
+      "id": "img_14900",
+      "type": "img",
+      "selector": "img_14900",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/uploads/w-real-estate-checked.svg"
+    },
+    {
+      "id": "span_coworking_69549",
+      "type": "span",
+      "selector": "span_coworking_69549",
+      "content": "Coworking"
+    },
+    {
+      "id": "img_39901",
+      "type": "img",
+      "selector": "img_39901",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/uploads/w-real-estate-checked.svg"
+    },
+    {
+      "id": "span_laundry_85746",
+      "type": "span",
+      "selector": "span_laundry_85746",
+      "content": "Laundry"
+    },
+    {
+      "id": "img_92616",
+      "type": "img",
+      "selector": "img_92616",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/uploads/w-real-estate-checked.svg"
+    },
+    {
+      "id": "span_playgrounds_15838",
+      "type": "span",
+      "selector": "span_playgrounds_15838",
+      "content": "Playgrounds"
+    },
+    {
+      "id": "img_67443",
+      "type": "img",
+      "selector": "img_67443",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/uploads/w-real-estate-checked.svg"
+    },
+    {
+      "id": "span_great_pool_69804",
+      "type": "span",
+      "selector": "span_great_pool_69804",
+      "content": "Great Pool"
+    },
+    {
+      "id": "div_our_gallery_60204",
+      "type": "div",
+      "selector": "div_our_gallery_60204",
+      "content": "OUR GALLERY"
+    },
+    {
+      "id": "h4_3d_renderings_86003",
+      "type": "h4",
+      "selector": "h4_3d_renderings_86003",
+      "content": "3D Renderings"
+    },
+    {
+      "id": "div_there_are_many__13096",
+      "type": "div",
+      "selector": "div_there_are_many__13096",
+      "content": "There are many variations of passages of lorem ipsum"
+    },
+    {
+      "id": "a_6104",
+      "type": "a",
+      "selector": "a_6104",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/uploads/w-investment-gallary-1-opt.jpg"
+    },
+    {
+      "id": "img_56391",
+      "type": "img",
+      "selector": "img_56391",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/uploads/w-investment-gallary-1-opt.jpg"
+    },
+    {
+      "id": "a_94559",
+      "type": "a",
+      "selector": "a_94559",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/uploads/w-investment-gallary-2-opt.jpg"
+    },
+    {
+      "id": "img_16728",
+      "type": "img",
+      "selector": "img_16728",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/uploads/w-investment-gallary-2-opt.jpg"
+    },
+    {
+      "id": "a_981",
+      "type": "a",
+      "selector": "a_981",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/uploads/w-investment-gallary-3-opt.jpg"
+    },
+    {
+      "id": "img_76559",
+      "type": "img",
+      "selector": "img_76559",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/uploads/w-investment-gallary-3-opt.jpg"
+    },
+    {
+      "id": "a_21763",
+      "type": "a",
+      "selector": "a_21763",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/uploads/w-investment-gallary-4-opt.jpg"
+    },
+    {
+      "id": "img_74311",
+      "type": "img",
+      "selector": "img_74311",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/uploads/w-investment-gallary-4-opt.jpg"
+    },
+    {
+      "id": "a_66086",
+      "type": "a",
+      "selector": "a_66086",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/uploads/w-investment-gallary-5-opt.jpg"
+    },
+    {
+      "id": "img_98596",
+      "type": "img",
+      "selector": "img_98596",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/uploads/w-investment-gallary-5-opt.jpg"
+    },
+    {
+      "id": "a_43191",
+      "type": "a",
+      "selector": "a_43191",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/uploads/w-investment-gallary-6.jpg"
+    },
+    {
+      "id": "img_97910",
+      "type": "img",
+      "selector": "img_97910",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/uploads/w-investment-gallary-6.jpg"
+    },
+    {
+      "id": "a_3048",
+      "type": "a",
+      "selector": "a_3048",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/uploads/w-investment-gallary-7.jpg"
+    },
+    {
+      "id": "img_85854",
+      "type": "img",
+      "selector": "img_85854",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/uploads/w-investment-gallary-7.jpg"
+    },
+    {
+      "id": "a_25020",
+      "type": "a",
+      "selector": "a_25020",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/uploads/w-investment-gallary-8.jpg"
+    },
+    {
+      "id": "img_95034",
+      "type": "img",
+      "selector": "img_95034",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/uploads/w-investment-gallary-8.jpg"
+    },
+    {
+      "id": "img_80338",
+      "type": "img",
+      "selector": "img_80338",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/uploads/w-investment-advantage-1-1.svg"
+    },
+    {
+      "id": "h4_service_premise_16715",
+      "type": "h4",
+      "selector": "h4_service_premise_16715",
+      "content": "Service Premises"
+    },
+    {
+      "id": "p_our_complex_has_71526",
+      "type": "p",
+      "selector": "p_our_complex_has_71526",
+      "content": "Our complex has office space and convenience stores on the ground floor. There’s lot of hate out the"
+    },
+    {
+      "id": "a_29198",
+      "type": "a",
+      "selector": "a_29198",
+      "content": ""
+    },
+    {
+      "id": "img_43485",
+      "type": "img",
+      "selector": "img_43485",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/uploads/w-investment-advantage-2-1.svg"
+    },
+    {
+      "id": "h4_safety_and_secu_22873",
+      "type": "h4",
+      "selector": "h4_safety_and_secu_22873",
+      "content": "Safety and Security"
+    },
+    {
+      "id": "p_reliable_round__29638",
+      "type": "p",
+      "selector": "p_reliable_round__29638",
+      "content": "Reliable round-the-clock surveillance by a security system using modern technologies. The villagers "
+    },
+    {
+      "id": "a_85018",
+      "type": "a",
+      "selector": "a_85018",
+      "content": ""
+    },
+    {
+      "id": "img_62732",
+      "type": "img",
+      "selector": "img_62732",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/uploads/w-investment-advantage-3-1.svg"
+    },
+    {
+      "id": "h4_environmental_s_23583",
+      "type": "h4",
+      "selector": "h4_environmental_s_23583",
+      "content": "Environmental Solutions"
+    },
+    {
+      "id": "p_we_care_about_t_42970",
+      "type": "p",
+      "selector": "p_we_care_about_t_42970",
+      "content": "We care about the environment, which is why we use LED lighting and have a charging station for elec"
+    },
+    {
+      "id": "a_23047",
+      "type": "a",
+      "selector": "a_23047",
+      "content": ""
+    },
+    {
+      "id": "img_77378",
+      "type": "img",
+      "selector": "img_77378",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/uploads/w-investment-advantage-4-1.svg"
+    },
+    {
+      "id": "h4_ease_of_managem_30552",
+      "type": "h4",
+      "selector": "h4_ease_of_managem_30552",
+      "content": "Ease of Management"
+    },
+    {
+      "id": "p_you_just_buy_an_23611",
+      "type": "p",
+      "selector": "p_you_just_buy_an_23611",
+      "content": "You just buy an apartment, and a professional hotel operator will do the rest for you. That Amounts "
+    },
+    {
+      "id": "a_25326",
+      "type": "a",
+      "selector": "a_25326",
+      "content": ""
+    },
+    {
+      "id": "img_15220",
+      "type": "img",
+      "selector": "img_15220",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/uploads/w-investment-advantage-5-1.svg"
+    },
+    {
+      "id": "h4_guaranteed_inco_89488",
+      "type": "h4",
+      "selector": "h4_guaranteed_inco_89488",
+      "content": "Guaranteed Income"
+    },
+    {
+      "id": "p_guaranteed_mont_61242",
+      "type": "p",
+      "selector": "p_guaranteed_mont_61242",
+      "content": "Guaranteed monthly incom is prescribed in advance in the contract. True enough, but that’s not all t"
+    },
+    {
+      "id": "a_88989",
+      "type": "a",
+      "selector": "a_88989",
+      "content": ""
+    },
+    {
+      "id": "img_86346",
+      "type": "img",
+      "selector": "img_86346",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/uploads/w-investment-advantage-6-1.svg"
+    },
+    {
+      "id": "h4_great_location_17425",
+      "type": "h4",
+      "selector": "h4_great_location_17425",
+      "content": "Great Location"
+    },
+    {
+      "id": "p_a_pledge_of_a_s_17836",
+      "type": "p",
+      "selector": "p_a_pledge_of_a_s_17836",
+      "content": "A pledge of a secure rental of your apartment. A client that’s unhappy for a reason is a problem, a "
+    },
+    {
+      "id": "a_44797",
+      "type": "a",
+      "selector": "a_44797",
+      "content": ""
+    },
+    {
+      "id": "img_91147",
+      "type": "img",
+      "selector": "img_91147",
+      "content": "https://t4.ftcdn.net/jpg/04/73/72/11/360_F_473721132_I9LNMCvx7Du6EdJNH91EywcNHzgtEclz.jpg"
+    },
+    {
+      "id": "div_plans_and_price_71829",
+      "type": "div",
+      "selector": "div_plans_and_price_71829",
+      "content": "PLANS AND PRICES"
+    },
+    {
+      "id": "h4_choose_your_apa_99120",
+      "type": "h4",
+      "selector": "h4_choose_your_apa_99120",
+      "content": "Choose Your Website"
+    },
+    {
+      "id": "div_we_follow_the_l_44943",
+      "type": "div",
+      "selector": "div_we_follow_the_l_44943",
+      "content": "We follow the latest developments in the building materials and technologies market, use only safe m"
+    },
+    {
+      "id": "img_70379",
+      "type": "img",
+      "selector": "img_70379",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/uploads/w-investment-apartment-32-1.svg"
+    },
+    {
+      "id": "h4_from__760_m2_6555",
+      "type": "h4",
+      "selector": "h4_from__760_m2_6555",
+      "content": "From $760/M2"
+    },
+    {
+      "id": "p_comfortable_com_74266",
+      "type": "p",
+      "selector": "p_comfortable_com_74266",
+      "content": "Comfortable compact apartments with a bathroom, a kitchen, a studio WROMO and a terrace"
+    },
+    {
+      "id": "a_13400",
+      "type": "a",
+      "selector": "a_13400",
+      "content": ""
+    },
+    {
+      "id": "img_74714",
+      "type": "img",
+      "selector": "img_74714",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/uploads/w-investment-apartment-52-1.svg"
+    },
+    {
+      "id": "h4_from__1100_m2_91353",
+      "type": "h4",
+      "selector": "h4_from__1100_m2_91353",
+      "content": "From $1100/M2"
+    },
+    {
+      "id": "p_2_room_apartmen_13588",
+      "type": "p",
+      "selector": "p_2_room_apartmen_13588",
+      "content": "2 room apartments with kitchen, studio, bathroom and wardrobe uncertain LOL by next studio WROMO"
+    },
+    {
+      "id": "a_38604",
+      "type": "a",
+      "selector": "a_38604",
+      "content": ""
+    },
+    {
+      "id": "img_29766",
+      "type": "img",
+      "selector": "img_29766",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/uploads/w-investment-apartment-82-1.svg"
+    },
+    {
+      "id": "h4_from__1320_m2_21993",
+      "type": "h4",
+      "selector": "h4_from__1320_m2_21993",
+      "content": "From $201/M2"
+    },
+    {
+      "id": "p_comfortable_apa_15390",
+      "type": "p",
+      "selector": "p_comfortable_apa_15390",
+      "content": "Comfortable apartment with 2 bathrooms, separate kitchen and large terrace\nNExt 2026 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! :)))"
+    },
+    {
+      "id": "a_87988",
+      "type": "a",
+      "selector": "a_87988",
+      "content": ""
+    },
+    {
+      "id": "img_56849",
+      "type": "img",
+      "selector": "img_56849",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/uploads/w-investment-apartment-120-1.svg"
+    },
+    {
+      "id": "h4_from__1280_m2_14100",
+      "type": "h4",
+      "selector": "h4_from__1280_m2_14100",
+      "content": "From $1280/M2"
+    },
+    {
+      "id": "p_comfortable_com_92810",
+      "type": "p",
+      "selector": "p_comfortable_com_92810",
+      "content": "Comfortable compact apartments with a bathroom, a kitchen, a studio and a terrace"
+    },
+    {
+      "id": "a_27171",
+      "type": "a",
+      "selector": "a_27171",
+      "content": ""
+    },
+    {
+      "id": "div_investment_stag_72862",
+      "type": "div",
+      "selector": "div_investment_stag_72862",
+      "content": "INVESTMENT STAGES"
+    },
+    {
+      "id": "h4_all_stages_of_i_83973",
+      "type": "h4",
+      "selector": "h4_all_stages_of_i_83973",
+      "content": "All Stages of Investment is LOTO 4/49"
+    },
+    {
+      "id": "div_there_are_many__56649",
+      "type": "div",
+      "selector": "div_there_are_many__56649",
+      "content": "There are many variations of passages of lorem ipsum"
+    },
+    {
+      "id": "div_01_37551",
+      "type": "div",
+      "selector": "div_01_37551",
+      "content": "07"
+    },
+    {
+      "id": "h4_consultation_61445",
+      "type": "h4",
+      "selector": "h4_consultation_61445",
+      "content": "Consultation"
+    },
+    {
+      "id": "p_you_leave_a_req_16399",
+      "type": "p",
+      "selector": "p_you_leave_a_req_16399",
+      "content": "You leave a request and our manager will contact you. Or you can call us yourself"
+    },
+    {
+      "id": "div_02_24654",
+      "type": "div",
+      "selector": "div_02_24654",
+      "content": "33"
+    },
+    {
+      "id": "h4_booking_apartme_35933",
+      "type": "h4",
+      "selector": "h4_booking_apartme_35933",
+      "content": "Booking Apartments"
+    },
+    {
+      "id": "p_you_pay_a_depos_83731",
+      "type": "p",
+      "selector": "p_you_pay_a_depos_83731",
+      "content": "You pay a deposit for the reservation of the apartment you selected"
+    },
+    {
+      "id": "div_03_19909",
+      "type": "div",
+      "selector": "div_03_19909",
+      "content": "18"
+    },
+    {
+      "id": "h4_first_installme_90690",
+      "type": "h4",
+      "selector": "h4_first_installme_90690",
+      "content": "First Installment"
+    },
+    {
+      "id": "p_during_the_cons_88758",
+      "type": "p",
+      "selector": "p_during_the_cons_88758",
+      "content": "During the construction phase, you pay 20% of the cost of the apartment"
+    },
+    {
+      "id": "div_04_28845",
+      "type": "div",
+      "selector": "div_04_28845",
+      "content": "49"
+    },
+    {
+      "id": "h4_commissioning_78409",
+      "type": "h4",
+      "selector": "h4_commissioning_78409",
+      "content": "Commissioning"
+    },
+    {
+      "id": "p_during_construc_62610",
+      "type": "p",
+      "selector": "p_during_construc_62610",
+      "content": "During construction, you pay 30% in 3 installments. After commissioning, profit"
+    },
+    {
+      "id": "h4_have_a_question_12207",
+      "type": "h4",
+      "selector": "h4_have_a_question_12207",
+      "content": "Have a Question for WROMO?"
+    },
+    {
+      "id": "div_call_to_us_or_l_52413",
+      "type": "div",
+      "selector": "div_call_to_us_or_l_52413",
+      "content": "NOT Call to us or leave your phone number, and we NOT call you back"
+    },
+    {
+      "id": "a_call_me_back_76843",
+      "type": "a",
+      "selector": "a_call_me_back_76843",
+      "content": "Call Me Next"
+    },
+    {
+      "id": "h4_if_you_have_que_87953",
+      "type": "h4",
+      "selector": "h4_if_you_have_que_87953",
+      "content": "If You Have Questions Please, Contact Us"
+    },
+    {
+      "id": "input_44984",
+      "type": "input",
+      "selector": "input_44984",
+      "content": ""
+    },
+    {
+      "id": "input_4937",
+      "type": "input",
+      "selector": "input_4937",
+      "content": ""
+    },
+    {
+      "id": "input_51445",
+      "type": "input",
+      "selector": "input_51445",
+      "content": ""
+    },
+    {
+      "id": "input_27810",
+      "type": "input",
+      "selector": "input_27810",
+      "content": ""
+    },
+    {
+      "id": "input_73667",
+      "type": "input",
+      "selector": "input_73667",
+      "content": ""
+    },
+    {
+      "id": "input_17167",
+      "type": "input",
+      "selector": "input_17167",
+      "content": ""
+    },
+    {
+      "id": "input_84170",
+      "type": "input",
+      "selector": "input_84170",
+      "content": ""
+    },
+    {
+      "id": "input_5388",
+      "type": "input",
+      "selector": "input_5388",
+      "content": ""
+    },
+    {
+      "id": "input_65773",
+      "type": "input",
+      "selector": "input_65773",
+      "content": ""
+    },
+    {
+      "id": "input_49233",
+      "type": "input",
+      "selector": "input_49233",
+      "content": ""
+    },
+    {
+      "id": "img_38987",
+      "type": "img",
+      "selector": "img_38987",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/uploads/autor-real-estate.png"
+    },
+    {
+      "id": "h4_choose_your_apa_24247",
+      "type": "h4",
+      "selector": "h4_choose_your_apa_24247",
+      "content": "Choose Your Apartment"
+    },
+    {
+      "id": "div_using_dummy_con_3530",
+      "type": "div",
+      "selector": "div_using_dummy_con_3530",
+      "content": "Using dummy content or fake information in the Web design process can result in products with unreal"
+    },
+    {
+      "id": "a_71366",
+      "type": "a",
+      "selector": "a_71366",
+      "content": "https://www.facebook.com/sharer/sharer.php?u=https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/demo-real-estate/demo/real-estate/"
+    },
+    {
+      "id": "a_87374",
+      "type": "a",
+      "selector": "a_87374",
+      "content": "https://x.com/share?url=https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/demo-real-estate/demo/real-estate/"
+    },
+    {
+      "id": "a_5106",
+      "type": "a",
+      "selector": "a_5106",
+      "content": "https://pinterest.com/pin/create/button/?url=https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/demo-real-estate/demo/real-estate/&media=https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/includes/images/media/default.svg&description=Demo+Real+Estate"
+    },
+    {
+      "id": "a_33800",
+      "type": "a",
+      "selector": "a_33800",
+      "content": "https://www.linkedin.com/shareArticle?mini=true&url=https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/demo-real-estate/demo/real-estate/"
+    },
+    {
+      "id": "a_36287",
+      "type": "a",
+      "selector": "a_36287",
+      "content": "https://telegram.me/share/url?url=https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/demo-real-estate/demo/real-estate/"
+    },
+    {
+      "id": "div_we_online_24_7_30569",
+      "type": "div",
+      "selector": "div_we_online_24_7_30569",
+      "content": "We online 24/7"
+    },
+    {
+      "id": "h4__480__555_0103_48520",
+      "type": "h4",
+      "selector": "h4__480__555_0103_48520",
+      "content": "(+43) 660-633-68-xx"
+    },
+    {
+      "id": "h4_investment_depa_74085",
+      "type": "h4",
+      "selector": "h4_investment_depa_74085",
+      "content": "Investment Wromo"
+    },
+    {
+      "id": "span_6391_elgin_st___37526",
+      "type": "span",
+      "selector": "span_6391_elgin_st___37526",
+      "content": "Invalidenstrasse 13\nVienna Austria"
+    },
+    {
+      "id": "h4_contact_with_us_67136",
+      "type": "h4",
+      "selector": "h4_contact_with_us_67136",
+      "content": "Contact With us"
+    },
+    {
+      "id": "a_info_ui_app_dev_15567",
+      "type": "a",
+      "selector": "a_info_ui_app_dev_15567",
+      "content": "Real WebSpeed"
+    },
+    {
+      "id": "span_info_ui_app_dev_75119",
+      "type": "span",
+      "selector": "span_info_ui_app_dev_75119",
+      "content": "info@ui-app.dev"
+    },
+    {
+      "id": "a__480__555_0103_25459",
+      "type": "a",
+      "selector": "a__480__555_0103_25459",
+      "content": "Post end Click"
+    },
+    {
+      "id": "h4_social_links_53324",
+      "type": "h4",
+      "selector": "h4_social_links_53324",
+      "content": "Social Links"
+    },
+    {
+      "id": "a_facebook_36799",
+      "type": "a",
+      "selector": "a_facebook_36799",
+      "content": "Not my Links"
+    },
+    {
+      "id": "a_instagram_13781",
+      "type": "a",
+      "selector": "a_instagram_13781",
+      "content": "Blabla Links"
+    },
+    {
+      "id": "div_webmart_created_27551",
+      "type": "div",
+      "selector": "div_webmart_created_27551",
+      "content": "WebSaaS Created By WROMO STUDIO Copyright © 2026"
+    },
+    {
+      "id": "a_webmart_93243",
+      "type": "a",
+      "selector": "a_webmart_93243",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/"
+    },
+    {
+      "id": "strong_webmart_41353",
+      "type": "strong",
+      "selector": "strong_webmart_41353",
+      "content": "WEBMART"
+    },
+    {
+      "id": "a_xwebapp_studio_75351",
+      "type": "a",
+      "selector": "a_xwebapp_studio_75351",
+      "content": "http://wromo.com"
+    },
+    {
+      "id": "strong_xwebapp_studio_13865",
+      "type": "strong",
+      "selector": "strong_xwebapp_studio_13865",
+      "content": "XWebApp STUDIO"
+    },
+    {
+      "id": "span_x_61884",
+      "type": "span",
+      "selector": "span_x_61884",
+      "content": "X"
+    },
+    {
+      "id": "a_29482",
+      "type": "a",
+      "selector": "a_29482",
+      "content": ""
+    },
+    {
+      "id": "h4_hey_you__sign_u_40971",
+      "type": "h4",
+      "selector": "h4_hey_you__sign_u_40971",
+      "content": "HEY YOU, SIGN UP AND CONNECT TO WEBMART!"
+    },
+    {
+      "id": "div_be_the_first_to_79422",
+      "type": "div",
+      "selector": "div_be_the_first_to_79422",
+      "content": "Be the first to learn about our latest trends and get exclusive offers"
+    },
+    {
+      "id": "input_20411",
+      "type": "input",
+      "selector": "input_20411",
+      "content": ""
+    },
+    {
+      "id": "input_17235",
+      "type": "input",
+      "selector": "input_17235",
+      "content": ""
+    },
+    {
+      "id": "label_leave_this_fiel_78240",
+      "type": "label",
+      "selector": "label_leave_this_fiel_78240",
+      "content": "Leave this field empty if you're human:"
+    },
+    {
+      "id": "input_81863",
+      "type": "input",
+      "selector": "input_81863",
+      "content": ""
+    },
+    {
+      "id": "input_53804",
+      "type": "input",
+      "selector": "input_53804",
+      "content": ""
+    },
+    {
+      "id": "input_52566",
+      "type": "input",
+      "selector": "input_52566",
+      "content": ""
+    },
+    {
+      "id": "input_58984",
+      "type": "input",
+      "selector": "input_58984",
+      "content": ""
+    },
+    {
+      "id": "p_will_be_used_in_85081",
+      "type": "p",
+      "selector": "p_will_be_used_in_85081",
+      "content": "Will be used in accordance with our Privacy Policy"
+    },
+    {
+      "id": "a_privacy_policy_60906",
+      "type": "a",
+      "selector": "a_privacy_policy_60906",
+      "content": "#"
+    },
+    {
+      "id": "a_home_2197",
+      "type": "a",
+      "selector": "a_home_2197",
+      "content": "Next dev"
+    },
+    {
+      "id": "span_home_27909",
+      "type": "span",
+      "selector": "span_home_27909",
+      "content": "Home"
+    },
+    {
+      "id": "a_demos_73807",
+      "type": "a",
+      "selector": "a_demos_73807",
+      "content": "Menu List"
+    },
+    {
+      "id": "span_demos_74625",
+      "type": "span",
+      "selector": "span_demos_74625",
+      "content": "Demos"
+    },
+    {
+      "id": "a_shop_42584",
+      "type": "a",
+      "selector": "a_shop_42584",
+      "content": "Real Website"
+    },
+    {
+      "id": "span_shop_8269",
+      "type": "span",
+      "selector": "span_shop_8269",
+      "content": "Shop"
+    },
+    {
+      "id": "a_blog_64337",
+      "type": "a",
+      "selector": "a_blog_64337",
+      "content": "Blog new"
+    },
+    {
+      "id": "span_blog_63343",
+      "type": "span",
+      "selector": "span_blog_63343",
+      "content": "Blog"
+    },
+    {
+      "id": "a_portfolio_14673",
+      "type": "a",
+      "selector": "a_portfolio_14673",
+      "content": "portfolio"
+    },
+    {
+      "id": "span_portfolio_60015",
+      "type": "span",
+      "selector": "span_portfolio_60015",
+      "content": "Portfolio"
+    },
+    {
+      "id": "a_pages_60568",
+      "type": "a",
+      "selector": "a_pages_60568",
+      "content": "contact-us"
+    },
+    {
+      "id": "span_pages_69086",
+      "type": "span",
+      "selector": "span_pages_69086",
+      "content": "Pages"
+    },
+    {
+      "id": "a_pre_built_pages_72580",
+      "type": "a",
+      "selector": "a_pre_built_pages_72580",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/contact-us/"
+    },
+    {
+      "id": "a_contact_us_18018",
+      "type": "a",
+      "selector": "a_contact_us_18018",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/contact-us/demo/real-estate/"
+    },
+    {
+      "id": "a_contact_us_2_20145",
+      "type": "a",
+      "selector": "a_contact_us_2_20145",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/contact-us-2/demo/real-estate/"
+    },
+    {
+      "id": "a_contact_us_3_62401",
+      "type": "a",
+      "selector": "a_contact_us_3_62401",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/contact-us-3/demo/real-estate/"
+    },
+    {
+      "id": "a_contact_us_4_69689",
+      "type": "a",
+      "selector": "a_contact_us_4_69689",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/contact-us-4/demo/real-estate/"
+    },
+    {
+      "id": "a_faqs_31791",
+      "type": "a",
+      "selector": "a_faqs_31791",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/faqs/demo/real-estate/"
+    },
+    {
+      "id": "a_faqs_2_73343",
+      "type": "a",
+      "selector": "a_faqs_2_73343",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/faqs-two/demo/real-estate/"
+    },
+    {
+      "id": "a_our_team_58270",
+      "type": "a",
+      "selector": "a_our_team_58270",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/our-team-2/demo/real-estate/"
+    },
+    {
+      "id": "a_about_us_54136",
+      "type": "a",
+      "selector": "a_about_us_54136",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/about-us-3/demo/real-estate/"
+    },
+    {
+      "id": "a_about_us_2_2581",
+      "type": "a",
+      "selector": "a_about_us_2_2581",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/about-us-4/demo/real-estate/"
+    },
+    {
+      "id": "a_pre_built_layou_75203",
+      "type": "a",
+      "selector": "a_pre_built_layou_75203",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/layout-categories/?opt=layout_categories"
+    },
+    {
+      "id": "a_layout_basic_66523",
+      "type": "a",
+      "selector": "a_layout_basic_66523",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/layout-basic/?opt=layout_basic"
+    },
+    {
+      "id": "a_layout_boxed_1094",
+      "type": "a",
+      "selector": "a_layout_boxed_1094",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/layout-boxed/?opt=layout_boxed"
+    },
+    {
+      "id": "a_layout_categori_68724",
+      "type": "a",
+      "selector": "a_layout_categori_68724",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/layout-categories/?opt=layout_categories"
+    },
+    {
+      "id": "a_layout_digital__62293",
+      "type": "a",
+      "selector": "a_layout_digital__62293",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/layout-digital-portfolio/?opt=layout_digital_portfolio"
+    },
+    {
+      "id": "a_layout_fullscre_69891",
+      "type": "a",
+      "selector": "a_layout_fullscre_69891",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/layout-fullscreen/?opt=layout_fullscreen"
+    },
+    {
+      "id": "a_layout_grid_38312",
+      "type": "a",
+      "selector": "a_layout_grid_38312",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/layout-grid-2/?opt=layout_grid2"
+    },
+    {
+      "id": "a_layout_infinite_14807",
+      "type": "a",
+      "selector": "a_layout_infinite_14807",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/infinite-scrolling/?opt=layout_infinite"
+    },
+    {
+      "id": "a_layout_landing_82284",
+      "type": "a",
+      "selector": "a_layout_landing_82284",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/landing/?opt=layout_landing"
+    },
+    {
+      "id": "a_layout_lookbook_16507",
+      "type": "a",
+      "selector": "a_layout_lookbook_16507",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/layout-lookbook/?opt=layout_lookbook"
+    },
+    {
+      "id": "a_layout_parallax_31000",
+      "type": "a",
+      "selector": "a_layout_parallax_31000",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/layout-parallax/?opt=layout_parallax"
+    },
+    {
+      "id": "a_layout_video_99486",
+      "type": "a",
+      "selector": "a_layout_video_99486",
+      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/layout-video/?opt=layout_video"
+    }
+  ]
+}
