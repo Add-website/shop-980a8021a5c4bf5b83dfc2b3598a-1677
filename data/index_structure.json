@@ -57,7 +57,7 @@
       "id": "a_6391_elgin_st___50076",
       "type": "a",
       "selector": "a_6391_elgin_st___50076",
-      "content": "My"
+      "content": "Call"
     },
     {
       "id": "img_55147",
@@ -75,7 +75,8 @@
       "id": "a__480__555_0103_58722",
       "type": "a",
       "selector": "a__480__555_0103_58722",
-      "content": "tel:+43 20555-0103"
+      "content": "(+49) 306-633-68-xx",
+      "href": "tel:(49)%30663368xx"
     },
     {
       "id": "img_87457",
@@ -99,7 +100,9 @@
       "id": "img_74129",
       "type": "img",
       "selector": "img_74129",
-      "content": "https://raw.githubusercontent.com/Ghepes/Ghepes/main/hello.gif"
+      "content": "https://raw.githubusercontent.com/Ghepes/Ghepes/main/hello.gif",
+      "href": "https://ba.wromo.ro",
+      "src": "https://play-lh.googleusercontent.com/G4i17GWZ1Oj7c9A1d_hUCJD2YTIjFuclxnopouHJOv9lKrS88QJ6zbrucK3nJ76gj6A=w240-h480-rw"
     },
     {
       "id": "a_home_5437",
@@ -309,13 +312,13 @@
       "id": "h4_real_estate_inv_68194",
       "type": "h4",
       "selector": "h4_real_estate_inv_68194",
-      "content": "Real <u>Speed</u> Your <u>Next GEN Website Saas!</u> "
+      "content": "Wromo.net <u>Speed</u> Your <u>Website Saas</u> "
     },
     {
       "id": "div_we_offer_a_rang_63412",
       "type": "div",
       "selector": "div_we_offer_a_rang_63412",
-      "content": "New 2026 - \nClick changed and saved = instant global web delivery"
+      "content": " 2027 - \nClick changed and saved = instant global web delivery"
     },
     {
       "id": "input_37427",
@@ -381,7 +384,7 @@
       "id": "p_you_just_buy_an_69876",
       "type": "p",
       "selector": "p_you_just_buy_an_69876",
-      "content": "You just buy an apartment, and a professional lol hotel operator will do the rest for you! With Website SaaS by Wromo"
+      "content": "✅ Scalability: Built for multi-vendor SaaS and Universal Checkout through Stripe Connect."
     },
     {
       "id": "img_50973",
@@ -393,19 +396,20 @@
       "id": "h4_guaranteed_inco_79505",
       "type": "h4",
       "selector": "h4_guaranteed_inco_79505",
-      "content": "Guaranteed Income"
+      "content": "👉 Join the revolution"
     },
     {
       "id": "p_guaranteed_mont_46823",
       "type": "p",
       "selector": "p_guaranteed_mont_46823",
-      "content": "Guaranteed monthly incom is prescribed in advance in the contract selection"
+      "content": "Our Vision:\nFrom seed phase to a fully tokenized, tradable asset class. Decentralized Autonomous Infrastructure platform."
     },
     {
       "id": "img_5470",
       "type": "img",
       "selector": "img_5470",
-      "content": "https://t4.ftcdn.net/jpg/04/73/72/11/360_F_473721132_I9LNMCvx7Du6EdJNH91EywcNHzgtEclz.jpg"
+      "content": "https://t4.ftcdn.net/jpg/04/73/72/11/360_F_473721132_I9LNMCvx7Du6EdJNH91EywcNHzgtEclz.jpg",
+      "src": "https://cdn.prod.website-files.com/64da807a9aa000087e97b92d/65565f4c68969afc38d266c3_649af953a966a7158da27f32_maxionthumbnail.jpeg"
     },
     {
       "id": "img_77527",
@@ -417,19 +421,19 @@
       "id": "div_our_advantages_12115",
       "type": "div",
       "selector": "div_our_advantages_12115",
-      "content": "OUR ADVANTAGES"
+      "content": "OUR NEXT SAAS"
     },
     {
       "id": "h4_about_apartment_11361",
       "type": "h4",
       "selector": "h4_about_apartment_11361",
-      "content": "About Website"
+      "content": "About Wromo.net"
     },
     {
       "id": "div_we_took_care_of_79941",
       "type": "div",
       "selector": "div_we_took_care_of_79941",
-      "content": "We took care of the space around. So that nothing prevents you from enjoying nature and freedom, the"
+      "content": "I’m thrilled to announce the launch of Wromo Ecosystem, an open-source, multi-cloud infrastructure that turns GitHub into a high-performance database"
     },
     {
       "id": "div_our_complex_has_83934",
@@ -447,7 +451,7 @@
       "id": "span_underground_par_35770",
       "type": "span",
       "selector": "span_underground_par_35770",
-      "content": "Underground parking"
+      "content": "Serverless"
     },
     {
       "id": "img_30659",
@@ -459,7 +463,7 @@
       "id": "span_the_shops_32215",
       "type": "span",
       "selector": "span_the_shops_32215",
-      "content": "The shops"
+      "content": "Github"
     },
     {
       "id": "img_59868",
@@ -471,7 +475,7 @@
       "id": "span_sports_court_8596",
       "type": "span",
       "selector": "span_sports_court_8596",
-      "content": "Sports court"
+      "content": "Scalability Ecosystem"
     },
     {
       "id": "img_14900",
@@ -483,7 +487,7 @@
       "id": "span_coworking_69549",
       "type": "span",
       "selector": "span_coworking_69549",
-      "content": "Coworking"
+      "content": "Build dynamic"
     },
     {
       "id": "img_39901",
@@ -495,7 +499,7 @@
       "id": "span_laundry_85746",
       "type": "span",
       "selector": "span_laundry_85746",
-      "content": "Laundry"
+      "content": "Cloud Functions"
     },
     {
       "id": "img_92616",
@@ -507,7 +511,7 @@
       "id": "span_playgrounds_15838",
       "type": "span",
       "selector": "span_playgrounds_15838",
-      "content": "Playgrounds"
+      "content": "Universal Checkout"
     },
     {
       "id": "img_67443",
@@ -519,7 +523,7 @@
       "id": "span_great_pool_69804",
       "type": "span",
       "selector": "span_great_pool_69804",
-      "content": "Great Pool"
+      "content": "Ultra-fast"
     },
     {
       "id": "div_our_gallery_60204",
@@ -531,7 +535,7 @@
       "id": "h4_3d_renderings_86003",
       "type": "h4",
       "selector": "h4_3d_renderings_86003",
-      "content": "3D Renderings"
+      "content": "Love 3D Renderings"
     },
     {
       "id": "div_there_are_many__13096",
@@ -789,19 +793,19 @@
       "id": "div_plans_and_price_71829",
       "type": "div",
       "selector": "div_plans_and_price_71829",
-      "content": "PLANS AND PRICES"
+      "content": "BUILT COMMITS"
     },
     {
       "id": "h4_choose_your_apa_99120",
       "type": "h4",
       "selector": "h4_choose_your_apa_99120",
-      "content": "Choose Your Website"
+      "content": "Join the revolution"
     },
     {
       "id": "div_we_follow_the_l_44943",
       "type": "div",
       "selector": "div_we_follow_the_l_44943",
-      "content": "We follow the latest developments in the building materials and technologies market, use only safe m"
+      "content": "Decentralized Autonomous Infrastructure where contributors own the platform.  ✅ Scalability: Built for multi-vendor SaaS and Universal Checkout through Stripe Connect."
     },
     {
       "id": "img_70379",
@@ -909,7 +913,7 @@
       "id": "h4_all_stages_of_i_83973",
       "type": "h4",
       "selector": "h4_all_stages_of_i_83973",
-      "content": "All Stages of Investment is LOTO 4/49"
+      "content": "The \"Code-to-Equity\" Serverless Revolution is here."
     },
     {
       "id": "div_there_are_many__56649",
@@ -1131,7 +1135,7 @@
       "id": "h4__480__555_0103_48520",
       "type": "h4",
       "selector": "h4__480__555_0103_48520",
-      "content": "(+43) 660-633-68-xx"
+      "content": "(+49) 306-633-68-xx"
     },
     {
       "id": "h4_investment_depa_74085",
