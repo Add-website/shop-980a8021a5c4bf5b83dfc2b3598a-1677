@@ -1341,7 +1341,7 @@
       "type": "a",
       "selector": "a_shop_42584",
       "content": "Real Website",
-      "href": "https://ba.wromo.ro/shop/"
+      "href": "#Shop"
     },
     {
       "id": "span_shop_8269",
@@ -1380,7 +1380,7 @@
       "type": "a",
       "selector": "a_pages_60568",
       "content": "contact-us",
-      "href": "https://ba.wromo.ro/contact-us/"
+      "href": "#Contact-us"
     },
     {
       "id": "span_pages_69086",
@@ -1392,8 +1392,8 @@
       "id": "a_pre_built_pages_72580",
       "type": "a",
       "selector": "a_pre_built_pages_72580",
-      "content": "https://ba.wromo.ro/contact-us/",
-      "href": "https://ba.wromo.ro/contact-us/"
+      "content": "#contact-us",
+      "href": "#Contact-us"
     },
     {
       "id": "a_contact_us_18018",
@@ -1447,38 +1447,43 @@
       "id": "a_about_us_2_2581",
       "type": "a",
       "selector": "a_about_us_2_2581",
-      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/about-us-4/demo/real-estate/"
+      "content": "#about-us-4/demo/real-estate",
+      "href": "#about-us-4"
     },
     {
       "id": "a_pre_built_layou_75203",
       "type": "a",
       "selector": "a_pre_built_layou_75203",
-      "content": "https://ba.wromo.ro/layout-categories/?opt=layout_categories",
-      "href": "https://ba.wromo.ro/layout-categories/?opt=layout_categories"
+      "content": "#layout-categories/?opt=layout_categories",
+      "href": "#layout-categories/?opt=layout_categories"
     },
     {
       "id": "a_layout_basic_66523",
       "type": "a",
       "selector": "a_layout_basic_66523",
-      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/layout-basic/?opt=layout_basic"
+      "content": "#layout-basic/?opt=layout_basic",
+      "href": "#layout-basic/?opt=layout_basic"
     },
     {
       "id": "a_layout_boxed_1094",
       "type": "a",
       "selector": "a_layout_boxed_1094",
-      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/layout-boxed/?opt=layout_boxed"
+      "content": "#layout-boxed/?opt=layout_boxed",
+      "href": "#layout-boxed/?opt=layout_boxed"
     },
     {
       "id": "a_layout_categori_68724",
       "type": "a",
       "selector": "a_layout_categori_68724",
-      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/layout-categories/?opt=layout_categories"
+      "content": "#layout-categories/?opt=layout_categories",
+      "href": "#layout-categories/?opt=layout_categories"
     },
     {
       "id": "a_layout_digital__62293",
       "type": "a",
       "selector": "a_layout_digital__62293",
-      "content": "https://shop-hsvgomqasfd9cewemz2z-5359.strict-web.com/layout-digital-portfolio/?opt=layout_digital_portfolio"
+      "content": "#layout-digital-portfolio/?opt=layout_digital_portfolio",
+      "href": "#layout-digital-portfolio/?opt=layout_digital_portfolio"
     },
     {
       "id": "a_layout_fullscre_69891",
